@@ -1,0 +1,11 @@
+spring:
+  cloud:
+    server:
+      git:
+        uri:
+          search-paths:
+
+      default-lable:
+
+server:
+  port:8081
